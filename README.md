@@ -233,11 +233,9 @@ Potential future enhancements include:
 
 ## Sai Sujit Khaire
 
-Sai Sujit Khaire
+**BCA Graduate | MIT World Peace University**
 
-BCA Graduate | MIT World Peace University
-
-MCA Student | MIT World Peace University
+**MCA Student | MIT World Peace University**
 
 Aspiring Business Analyst | Data Analyst | AI Enthusiast
 
